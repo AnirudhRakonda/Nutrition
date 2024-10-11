@@ -1,2 +1,2 @@
 # Nutrition
-Nutrition monitor through image recognition of food 
+Nutrition monitoring through image recognition of food data pictures
